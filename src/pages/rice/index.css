@@ -1,0 +1,25 @@
+.rice-container{
+    background-color: #eee;
+    padding: 8px 0px;
+}
+.card-list{
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 20px 10px;
+    margin-bottom: 8px;
+}
+.list-name{
+    font-weight: 600;
+    color: cornflowerblue;
+}
+.card-content{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    width: 77%;
+}
+.list-title,.list-agriculture,.list-chemical{
+    display: flex;
+}

@@ -1,0 +1,9 @@
+.container{
+    width: 100%;
+}
+.search-header{
+    padding: 10px 20px;
+}
+.search-header input {
+    font-size: 16px!important;
+}
